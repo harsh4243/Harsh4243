@@ -34,7 +34,7 @@
 - **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
 - **Backend**: Node.js, Express.js, REST API  
 - **Database**: MongoDB, MySQL  
-- **Cloud & DevOps**: AWS (S3, EC2, IAM, Lambda, VPC), Git, GitHub, Netlify  
+- **Cloud & DevOps**: AWS (S3, EC2, IAM, Lambda, VPC), Git, GitHub, Netflix  
 - **Others**: Python, OpenCV, Firebase, Postman
 
 ---
